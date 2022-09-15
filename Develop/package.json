@@ -1,7 +1,7 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "ORM-E-Commerce-Backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is the backend implementation for an e-commerce site. Created by taking a working Express.js API and configuring it to use Sequelize to interact with a MySQL database.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "https://github.com/nhastings1/ORM-E-Commerce-Backend"
   },
   "keywords": [],
   "author": "",
